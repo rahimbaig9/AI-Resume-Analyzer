@@ -1,0 +1,11 @@
+fastapi
+uvicorn[standard]
+python-multipart
+pdfplumber
+pydantic
+sentence-transformers
+scikit-learn
+spacy
+nltk
+python-dotenv
+aiofiles
